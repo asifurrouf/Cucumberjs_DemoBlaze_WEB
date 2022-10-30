@@ -39,3 +39,5 @@
  ```bash
  allure serve .\allure-results\ 
  ```
+ Full execution video:
+ https://drive.google.com/file/d/1iUjxWaq1aE2wk4LJfCbLcFIQTb4doKP8/view
