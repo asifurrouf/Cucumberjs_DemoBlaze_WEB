@@ -8,4 +8,4 @@ Feature: Demo Blaze Website
         When click on log in
         And type login user name
         And type login password
-        And click on log close
+        Then click on log close

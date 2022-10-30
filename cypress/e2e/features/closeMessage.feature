@@ -9,5 +9,5 @@ Feature: Demo Blaze Website
         And type email address
         And type contact name
         And type message
-        And click on close message
+        Then click on close message
  

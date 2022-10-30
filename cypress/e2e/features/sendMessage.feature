@@ -9,5 +9,5 @@ Feature: Demo Blaze Website
         And type email address
         And type contact name
         And type message
-        And click on send message
+        Then click on send message
  

@@ -8,4 +8,4 @@ Feature: Demo Blaze Website
         When click on sign up
         And type sign up user name
         And type sign up password
-        And click on sign up close
+        Then click on sign up close

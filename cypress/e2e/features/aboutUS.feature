@@ -8,5 +8,5 @@ Feature: Demo Blaze Website
         When click on about us
         And click on play
         And click on pause
-        And click on close about us
+        Then click on close about us
  

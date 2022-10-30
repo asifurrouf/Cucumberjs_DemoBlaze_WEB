@@ -17,4 +17,4 @@ Feature: Demo Blaze Website
         And enter credit card number
         And enter month name
         And enter year name
-        And click on purchase button
+        Then click on purchase button
