@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-10-18T14:40:57.550Z",
+  "duration": 14911,
+  "file": "cypress\\e2e\\features\\sendMessage.feature"
+}

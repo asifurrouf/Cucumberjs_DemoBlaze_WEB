@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-10-18T14:40:34.881Z",
+  "duration": 12190,
+  "file": "cypress\\e2e\\features\\closeMessage.feature"
+}

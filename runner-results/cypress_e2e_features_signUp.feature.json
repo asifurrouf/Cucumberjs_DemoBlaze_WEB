@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-10-18T14:40:07.041Z",
+  "duration": 11656,
+  "file": "cypress\\e2e\\features\\signUp.feature"
+}
